@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TerritoryGame.Log" GeneratedClassName="Logger">
+  <Profiles />
+  <Settings>
+    <Setting Name="LocalFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\\TerritoryLog.txt</Value>
+    </Setting>
+    <Setting Name="LogLocalFile" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LogConsole" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
